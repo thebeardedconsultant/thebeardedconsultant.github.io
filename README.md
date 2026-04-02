@@ -3,3 +3,6 @@
 ## testing the "The Bearded Consultant - github.io" page for future references
 
 testing other changes and inserting text here
+
+https://docs.github.com/en/pages/quickstart
+
