@@ -2,7 +2,7 @@
 
 ## testing the "The Bearded Consultant - github.io" page for future references
 
-<img src="https://github.com/thebeardedconsultant/thebeardedconsultant.github.io/blob/64f13c970d3a3c14946b4f3c3088590397e02f56/images/full_meditating.png" alt="WIP">
+![WIP](images/full_meditating.png)
 
 testing other changes and inserting text here
 
