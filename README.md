@@ -10,9 +10,6 @@ https://docs.github.com/en/pages/quickstart
 
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 
-### TODO
-https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site
-
 ### TESTING
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
