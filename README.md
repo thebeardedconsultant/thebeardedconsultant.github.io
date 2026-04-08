@@ -1,3 +1,7 @@
+---
+layout: post
+title: The Beaded Consultant
+---
 # thebeardedconsultant.github.io
 
 ## testing the "The Bearded Consultant - github.io" page for future references
